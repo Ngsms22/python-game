@@ -54,3 +54,5 @@ friends = ["John", "keley", "mike", "tom","peter"]
 # choice
 prson_to_pay= random.choice(friends)
 print(f"the person to pay is {prson_to_pay}")
+
+
